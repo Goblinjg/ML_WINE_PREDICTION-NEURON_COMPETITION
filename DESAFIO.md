@@ -69,24 +69,24 @@ Este desafio é dividido em **5 etapas principais**, cada uma com seus próprios
 
 ## 🎓 Etapa 1: Análise Exploratória de Dados
 
-### Objetivos:
-- [ ] Carregar os datasets de treino e teste
-- [ ] Exibir informações básicas (shape, tipos de dados, valores nulos)
-- [ ] Calcular estatísticas descritivas
-- [ ] Visualizar a distribuição da variável alvo (`quality`)
-- [ ] Criar matriz de correlação
-- [ ] Visualizar distribuição de todas as features numéricas
+### Objetivos: okok
+- [ok ] Carregar os datasets de treino e teste 
+- [ok ] Exibir informações básicas (shape, tipos de dados, valores nulos) 
+- [ok ] Calcular estatísticas descritivas #ok 
+- [ok ] Visualizar a distribuição da variável alvo (`quality`)
+- [ok ] Criar matriz de correlação
+- [ok ] Visualizar distribuição de todas as features numéricas
 
 ### Pontos de Atenção:
-- Existem valores nulos nos dados originais?
-- Como é a distribuição da qualidade dos vinhos?
-- Quais features têm maior correlação com a qualidade?
-- Há outliers significativos nos dados?
+- Existem valores nulos nos dados originais? ok
+- Como é a distribuição da qualidade dos vinhos? ok
+- Quais features têm maior correlação com a qualidade? ok
+- Há outliers significativos nos dados? 
 
 ### Visualizações Esperadas:
 1. Gráfico de barras da distribuição de qualidade
 2. Histograma da qualidade
-3. Matriz de correlação (heatmap)
+3. Matriz de correlação (heatmap) #ok
 4. Histogramas de todas as features numéricas
 
 ---
