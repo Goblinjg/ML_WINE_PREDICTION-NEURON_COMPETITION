@@ -81,24 +81,24 @@ Este desafio é dividido em **5 etapas principais**, cada uma com seus próprios
 - Existem valores nulos nos dados originais? ok
 - Como é a distribuição da qualidade dos vinhos? ok
 - Quais features têm maior correlação com a qualidade? ok
-- Há outliers significativos nos dados? 
+- Há outliers significativos nos dados? ok
 
 ### Visualizações Esperadas:
-1. Gráfico de barras da distribuição de qualidade
-2. Histograma da qualidade
+1. Gráfico de barras da distribuição de qualidade ok
+2. Histograma da qualidade ok 
 3. Matriz de correlação (heatmap) #ok
-4. Histogramas de todas as features numéricas
+4. Histogramas de todas as features numéricas ok 
 
 ---
 
 ## 🤖 Etapa 2: Modelagem Preditiva de Regressão
 
 ### Objetivos:
-- [ ] Preparar dados para modelagem (separar X e y)
-- [ ] Dividir dados em treino e validação (80/20)
-- [ ] Normalizar os dados usando StandardScaler
-- [ ] Treinar pelo menos 3 modelos diferentes de regressão
-- [ ] Avaliar modelos usando múltiplas métricas
+- [ok ] Preparar dados para modelagem (separar X e y)
+- [ok ] Dividir dados em treino e validação (80/20)
+- [ok ] Normalizar os dados usando StandardScaler
+- [ok ] Treinar pelo menos 3 modelos diferentes de regressão
+- [ok ] Avaliar modelos usando múltiplas métricas
 
 ### Modelos Sugeridos:
 1. **Regressão Linear** - Baseline simples
@@ -111,14 +111,14 @@ Este desafio é dividido em **5 etapas principais**, cada uma com seus próprios
 - **MAE** (Mean Absolute Error) - Erro absoluto médio
 
 ### Desafio Extra:
-- Crie visualizações comparando a performance dos modelos
-- Identifique qual modelo tem melhor generalização (menor overfitting)
-- Gráficos de comparação side-by-side de RMSE e R²
+- Crie visualizações comparando a performance dos modelos ok 
+- Identifique qual modelo tem melhor generalização (menor overfitting) ok
+- Gráficos de comparação side-by-side de RMSE e R² ok
 
 ### Critérios de Sucesso:
-- RMSE de validação < 0.65
-- R² de validação > 0.35
-- Diferença entre RMSE treino/validação < 0.15 (evitar overfitting)
+- RMSE de validação < 0.65 nao ok
+- R² de validação > 0.35 nao ok
+- Diferença entre RMSE treino/validação < 0.15 (evitar overfitting) ok
 
 ---
 
